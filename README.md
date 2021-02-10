@@ -1,4 +1,3 @@
-# testDemo1
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,8 +35,7 @@
   padding: 8px;
   border: 1px solid black;
   background-color : blue;
-  height  :25px;
-  width : 250px;
+  
   
 
 }
@@ -87,4 +85,3 @@ padding: 60px;
 </body>
 </html>
   
-
